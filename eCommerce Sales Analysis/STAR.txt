@@ -1,0 +1,10 @@
+Raw and messy Sales data from an eCommerce store.
+
+Goal: Visualize the sales.
+	Sales Categories
+	Promotions
+	Sales over time
+	Delivery time
+
+Create a data model.
+Visualize the data.
